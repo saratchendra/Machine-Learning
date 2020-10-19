@@ -37,5 +37,5 @@ v) Model implementation
 vi) Observation from the models.
 8) Important questions for interview
 9) Interview preparation
-10) Conclusion
+10) Conclusion.
 
