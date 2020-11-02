@@ -1,6 +1,7 @@
 # Machine-Learning
 A complete course on Machine Learning. Quick and easy way to learn theoretically and practically as well.
 Beginning with python basics, Data Visualization, Statistics concepts, Data analysis ans implementing Machine learning algorithms.
+Its an easy way of learning some basics.
 what is Data science - introduction
 1)Introduction to Machine learning must be included.
 2) Introduction to python must be included(Python tutorials)
